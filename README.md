@@ -1,2 +1,4 @@
 # Yahoo_Automated_Login
-This is a automated test for yahoo login :)
+This is an automated test made with Robot Framework and Selenium Library.
+
+
